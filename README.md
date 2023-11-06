@@ -40,41 +40,20 @@ To use this repository for cat and dog classification:
 6. Execute `train_srganenerated.py` to train the binary classification model (model B) on the SRGAN-generated images.
 7. Use the `test.py` to evaluate models A and B and compare their performances.
 
-## SRGAN sample
-<!-- First row of images -->
-<figure>
-  <p float="left">
-    <img src="/srgan/train_srgan_samples/Cat_149_lr.png" width="32%" />
-    <figcaption>Low Resolution - Cat</figcaption>
-  </p>
-  <p float="left">
-    <img src="/srgan/train_srgan_samples/Cat_149_hr.png" width="32%" />
-    <figcaption>High Resolution - Cat</figcaption>
-  </p>
-  <p float="left">
-    <img src="/srgan/train_srgan_samples/Cat_149_generated.png" width="32%" />
-    <figcaption>SRGAN Generated - Cat</figcaption>
-  </p>
-</figure>
+## Sample SRGAN Outputs
 
-<!-- Clear the float -->
-<div style="clear:both;"></div>
+## Sample SRGAN Outputs
 
-<!-- Second row of images -->
-<figure>
-  <p float="left">
-    <img src="/srgan/train_srgan_samples/Dog_148_lr.png" width="32%" />
-    <figcaption>Low Resolution - Dog</figcaption>
-  </p>
-  <p float="left">
-    <img src="/srgan/train_srgan_samples/Dog_148_hr.png" width="32%" />
-    <figcaption>High Resolution - Dog</figcaption>
-  </p>
-  <p float="left">
-    <img src="/srgan/train_srgan_samples/Dog_148_generated.png" width="32%" />
-    <figcaption>SRGAN Generated - Dog</figcaption>
-  </p>
-</figure>
+### Cat Images
+| Low Resolution | High Resolution | SRGAN Generated |
+|:--------------:|:---------------:|:---------------:|
+| ![Low Resolution - Cat](/srgan/train_srgan_samples/Cat_149_lr.png) | ![High Resolution - Cat](/srgan/train_srgan_samples/Cat_149_hr.png) | ![SRGAN Generated - Cat](/srgan/train_srgan_samples/Cat_149_generated.png) |
+
+### Dog Images
+| Low Resolution | High Resolution | SRGAN Generated |
+|:--------------:|:---------------:|:---------------:|
+| ![Low Resolution - Dog](/srgan/train_srgan_samples/Dog_148_lr.png) | ![High Resolution - Dog](/srgan/train_srgan_samples/Dog_148_hr.png) | ![SRGAN Generated - Dog](/srgan/train_srgan_samples/Dog_148_generated.png) |
+
 
 ## Model Performance
 
