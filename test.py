@@ -1,5 +1,6 @@
 import glob
 import itertools
+import os
 
 import numpy as np
 import torch
@@ -10,6 +11,7 @@ import lightning.pytorch as pl
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 from train import Model, AnimalDatSet, set_seed, get_test_transformation
+from lightning.pytorch.loggers import TensorBoardLogger
 
 mean = torch.tensor([0.485, 0.456, 0.406]).view(1, 3, 1, 1).cuda(0)
 std = torch.tensor([0.229, 0.224, 0.225]).view(1, 3, 1, 1).cuda(0)
@@ -50,11 +52,9 @@ def plot_confusion_matrix(cm, classes, normalize=False, title='Confusion matrix'
 
 
 if __name__ == "__main__":
-
-    torch.set_float32_matmul_precision('medium')
-    model_path = "./checkpoints/model_B"
+    model_path = "./checkpoints/model_A"
     batch_size = 32
-
+    tb_logger = TensorBoardLogger(save_dir=os.path.join(model_path, "tb_log_test/"), name="resnet18")
     # Set seed for reproducibility
     seed = 10
     set_seed(seed)
@@ -68,6 +68,7 @@ if __name__ == "__main__":
     trainer = pl.Trainer(default_root_dir=model_path,
                          accelerator="gpu",
                          max_epochs=100,
+                         logger=[tb_logger],
                          )
 
     saved_path = glob.glob(model_path + '/resnet*.ckpt')
@@ -78,18 +79,13 @@ if __name__ == "__main__":
     model.load_state_dict(checkpoint['state_dict'])
     model.eval()
     model.cuda(0)
-    # out = trainer.test(model, test_loader)
+    out = trainer.test(model, test_loader)
     # print(out)
     all_preds = []
     all_labels = []
     cat = 0
     dog = 0
-    # for t in test_data:
-    #     if t["label"] == 0:
-    #         dog += 1
-    #     else:
-    #         cat += 1
-    # print("test data:", cat, dog)
+
     from torchvision import transforms
 
     t = transforms.ToPILImage()
@@ -112,8 +108,7 @@ if __name__ == "__main__":
     # Compute confusion matrix
     cm = confusion_matrix(all_labels, all_preds)
 
-    # Plot confusion matrix
+    # Plot confusion mat/rix
 
-    # Assuming you have 10 classes for example
     class_names = ["Dog", "Cat"]
     plot_confusion_matrix(cm, classes=class_names, normalize=True, title='Normalized confusion matrix')
