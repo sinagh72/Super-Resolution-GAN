@@ -225,7 +225,7 @@ if __name__ == "__main__":
     seed = 10
     set_seed(seed)
     # Create dataset and split it into train, and validation
-    cat_dog_dataset = AnimalDatSet(data_root="./dogs-vs-cats (1)/train/train", transformation=get_transformation())
+    cat_dog_dataset = AnimalDatSet(data_root="./cat_vs_dog_dataset/train/train", transformation=get_transformation())
     train_data, val_data, _ = random_split(cat_dog_dataset, [0.6, 0.1, 0.3],
                                            generator=torch.Generator().manual_seed(seed))
     # cat = 0
