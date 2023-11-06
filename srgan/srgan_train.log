@@ -1,0 +1,456 @@
+"C:\Users\Sina Gholami\anaconda3\envs\ai\python.exe" "D:\phd\semesters\fall 2023\deep learning\hm3\srgan\srgan_train.py"
+Seed set to 10
+100%|██████████| 253/253 [05:38<00:00,  1.34s/it]
+Epoch 1/150 - Generator Loss: 11.155622222206809 - Discriminator Loss: 0.6537736944059138
+Average PSNR on validation set for epoch 1: 45.5484619140625 dB
+100%|██████████| 253/253 [05:32<00:00,  1.31s/it]
+Epoch 2/150 - Generator Loss: 4.17869718366932 - Discriminator Loss: 0.5759218156102146
+Average PSNR on validation set for epoch 2: 46.97166061401367 dB
+100%|██████████| 253/253 [05:30<00:00,  1.30s/it]
+Epoch 3/150 - Generator Loss: 3.5515656141424365 - Discriminator Loss: 0.49815579553837835
+Average PSNR on validation set for epoch 3: 47.77035903930664 dB
+100%|██████████| 253/253 [05:30<00:00,  1.31s/it]
+Epoch 4/150 - Generator Loss: 3.18866758666962 - Discriminator Loss: 0.44718608377950464
+Average PSNR on validation set for epoch 4: 48.446006774902344 dB
+100%|██████████| 253/253 [05:39<00:00,  1.34s/it]
+Epoch 5/150 - Generator Loss: 2.962795540278137 - Discriminator Loss: 0.41974550167562463
+Average PSNR on validation set for epoch 5: 48.93352508544922 dB
+100%|██████████| 253/253 [05:35<00:00,  1.33s/it]
+Epoch 6/150 - Generator Loss: 2.8004957894562734 - Discriminator Loss: 0.40336747320273175
+Average PSNR on validation set for epoch 6: 49.340904235839844 dB
+100%|██████████| 253/253 [05:37<00:00,  1.34s/it]
+Epoch 7/150 - Generator Loss: 2.7105530646478706 - Discriminator Loss: 0.3953963919826176
+Average PSNR on validation set for epoch 7: 49.50732421875 dB
+100%|██████████| 253/253 [05:36<00:00,  1.33s/it]
+Epoch 8/150 - Generator Loss: 2.607807351666477 - Discriminator Loss: 0.38745086937553797
+Average PSNR on validation set for epoch 8: 49.838523864746094 dB
+100%|██████████| 253/253 [05:44<00:00,  1.36s/it]
+Epoch 9/150 - Generator Loss: 2.520729734492396 - Discriminator Loss: 0.38304485645689984
+Average PSNR on validation set for epoch 9: 50.08328628540039 dB
+100%|██████████| 253/253 [05:48<00:00,  1.38s/it]
+Epoch 10/150 - Generator Loss: 2.442513339133131 - Discriminator Loss: 0.3804592198062791
+Average PSNR on validation set for epoch 10: 50.25602722167969 dB
+100%|██████████| 253/253 [08:03<00:00,  1.91s/it]
+Epoch 11/150 - Generator Loss: 2.3748742299588774 - Discriminator Loss: 0.38014140619119635
+Average PSNR on validation set for epoch 11: 50.44337844848633 dB
+100%|██████████| 253/253 [09:17<00:00,  2.20s/it]
+Epoch 12/150 - Generator Loss: 2.3080738985491362 - Discriminator Loss: 0.37730054704568133
+Average PSNR on validation set for epoch 12: 50.601993560791016 dB
+100%|██████████| 253/253 [09:17<00:00,  2.21s/it]
+Epoch 13/150 - Generator Loss: 2.2657355701499307 - Discriminator Loss: 0.3732432794900751
+Average PSNR on validation set for epoch 13: 50.70294952392578 dB
+100%|██████████| 253/253 [09:23<00:00,  2.23s/it]
+Epoch 14/150 - Generator Loss: 2.2178096036194814 - Discriminator Loss: 0.37404639871695294
+Average PSNR on validation set for epoch 14: 50.89860916137695 dB
+100%|██████████| 253/253 [09:06<00:00,  2.16s/it]
+Epoch 15/150 - Generator Loss: 2.16945783799816 - Discriminator Loss: 0.373569042315125
+Average PSNR on validation set for epoch 15: 51.131019592285156 dB
+100%|██████████| 253/253 [09:27<00:00,  2.24s/it]
+Epoch 16/150 - Generator Loss: 2.134348825974898 - Discriminator Loss: 0.37295601572915027
+Average PSNR on validation set for epoch 16: 51.16032409667969 dB
+100%|██████████| 253/253 [09:00<00:00,  2.14s/it]
+Epoch 17/150 - Generator Loss: 2.0833674188659126 - Discriminator Loss: 0.37116467387308716
+Average PSNR on validation set for epoch 17: 51.36503982543945 dB
+100%|██████████| 253/253 [08:47<00:00,  2.08s/it]
+Epoch 18/150 - Generator Loss: 2.0559990815965556 - Discriminator Loss: 0.36994697041662317
+Average PSNR on validation set for epoch 18: 51.563594818115234 dB
+100%|██████████| 253/253 [08:46<00:00,  2.08s/it]
+Epoch 19/150 - Generator Loss: 2.023391174704661 - Discriminator Loss: 0.37105303225309955
+Average PSNR on validation set for epoch 19: 51.5839729309082 dB
+100%|██████████| 253/253 [08:58<00:00,  2.13s/it]
+Epoch 20/150 - Generator Loss: 1.9813243334472415 - Discriminator Loss: 0.3709038923615995
+Average PSNR on validation set for epoch 20: 51.71870803833008 dB
+100%|██████████| 253/253 [08:02<00:00,  1.91s/it]
+Epoch 21/150 - Generator Loss: 1.9703527189526162 - Discriminator Loss: 0.36924888823814545
+Average PSNR on validation set for epoch 21: 51.78833770751953 dB
+100%|██████████| 253/253 [06:08<00:00,  1.46s/it]
+Epoch 22/150 - Generator Loss: 1.9411263715608318 - Discriminator Loss: 0.3704738065659293
+Average PSNR on validation set for epoch 22: 51.83427047729492 dB
+100%|██████████| 253/253 [05:51<00:00,  1.39s/it]
+Epoch 23/150 - Generator Loss: 1.9049948359666606 - Discriminator Loss: 0.3682116227658841
+Average PSNR on validation set for epoch 23: 51.862972259521484 dB
+100%|██████████| 253/253 [06:02<00:00,  1.43s/it]
+Epoch 24/150 - Generator Loss: 1.8853939201520837 - Discriminator Loss: 0.368416750619534
+Average PSNR on validation set for epoch 24: 52.089595794677734 dB
+100%|██████████| 253/253 [06:04<00:00,  1.44s/it]
+Epoch 25/150 - Generator Loss: 1.8555490150753218 - Discriminator Loss: 0.36703083142932696
+Average PSNR on validation set for epoch 25: 52.137752532958984 dB
+100%|██████████| 253/253 [05:59<00:00,  1.42s/it]
+Epoch 26/150 - Generator Loss: 1.841911173620714 - Discriminator Loss: 0.36948868302488513
+Average PSNR on validation set for epoch 26: 52.25568389892578 dB
+100%|██████████| 253/253 [06:05<00:00,  1.44s/it]
+Epoch 27/150 - Generator Loss: 1.82392476434293 - Discriminator Loss: 0.36688944921191974
+Average PSNR on validation set for epoch 27: 52.2895393371582 dB
+100%|██████████| 253/253 [06:08<00:00,  1.46s/it]
+Epoch 28/150 - Generator Loss: 1.793243598089859 - Discriminator Loss: 0.3673804454181505
+Average PSNR on validation set for epoch 28: 52.3414306640625 dB
+100%|██████████| 253/253 [06:02<00:00,  1.43s/it]
+Epoch 29/150 - Generator Loss: 1.7831947271060566 - Discriminator Loss: 0.36547607913790014
+Average PSNR on validation set for epoch 29: 52.377235412597656 dB
+100%|██████████| 253/253 [06:11<00:00,  1.47s/it]
+Epoch 30/150 - Generator Loss: 1.757809977286418 - Discriminator Loss: 0.3663278405845401
+Average PSNR on validation set for epoch 30: 52.427181243896484 dB
+100%|██████████| 253/253 [06:07<00:00,  1.45s/it]
+Epoch 31/150 - Generator Loss: 1.7398151573927507 - Discriminator Loss: 0.36706750171457825
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 31: 52.410797119140625 dB
+100%|██████████| 253/253 [05:47<00:00,  1.37s/it]
+Epoch 32/150 - Generator Loss: 1.7304772718150625 - Discriminator Loss: 0.36677345657065924
+Average PSNR on validation set for epoch 32: 52.53516387939453 dB
+100%|██████████| 253/253 [05:52<00:00,  1.39s/it]
+Epoch 33/150 - Generator Loss: 1.7075710725407356 - Discriminator Loss: 0.3675668071145597
+Average PSNR on validation set for epoch 33: 52.60749435424805 dB
+100%|██████████| 253/253 [05:42<00:00,  1.36s/it]
+Epoch 34/150 - Generator Loss: 1.6881123922559111 - Discriminator Loss: 0.36761964345166803
+Average PSNR on validation set for epoch 34: 52.72601318359375 dB
+100%|██████████| 253/253 [05:40<00:00,  1.34s/it]
+Epoch 35/150 - Generator Loss: 1.6610842698176387 - Discriminator Loss: 0.3689038516740083
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 35: 52.65272903442383 dB
+100%|██████████| 253/253 [05:40<00:00,  1.35s/it]
+Epoch 36/150 - Generator Loss: 1.6488192491380593 - Discriminator Loss: 0.3668634178845779
+Average PSNR on validation set for epoch 36: 52.783905029296875 dB
+100%|██████████| 253/253 [05:40<00:00,  1.35s/it]
+Epoch 37/150 - Generator Loss: 1.6341872366049544 - Discriminator Loss: 0.36629668596704956
+Average PSNR on validation set for epoch 37: 52.82966232299805 dB
+100%|██████████| 253/253 [05:40<00:00,  1.35s/it]
+Epoch 38/150 - Generator Loss: 1.617227734313181 - Discriminator Loss: 0.36743883264394617
+Average PSNR on validation set for epoch 38: 52.80695343017578 dB
+100%|██████████| 253/253 [05:40<00:00,  1.35s/it]
+Epoch 39/150 - Generator Loss: 1.6045337288747192 - Discriminator Loss: 0.3658263411210931
+Average PSNR on validation set for epoch 39: 52.81695556640625 dB
+100%|██████████| 253/253 [05:40<00:00,  1.34s/it]
+Epoch 00040: reducing learning rate of group 0 to 1.0000e-07.
+Epoch 40/150 - Generator Loss: 1.5867455900893381 - Discriminator Loss: 0.3663146003432896
+Average PSNR on validation set for epoch 40: 52.83819580078125 dB
+100%|██████████| 253/253 [05:40<00:00,  1.35s/it]
+Epoch 41/150 - Generator Loss: 1.5663549240398784 - Discriminator Loss: 0.3663535855504364
+Average PSNR on validation set for epoch 41: 52.8892936706543 dB
+100%|██████████| 253/253 [05:05<00:00,  1.21s/it]
+Epoch 42/150 - Generator Loss: 1.5560041760267476 - Discriminator Loss: 0.3675367127765309
+Average PSNR on validation set for epoch 42: 53.053985595703125 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 43/150 - Generator Loss: 1.5391230357023096 - Discriminator Loss: 0.3669774546453604
+Average PSNR on validation set for epoch 43: 53.077186584472656 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 44/150 - Generator Loss: 1.524683939609603 - Discriminator Loss: 0.3672165989640202
+Average PSNR on validation set for epoch 44: 53.0684814453125 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 45/150 - Generator Loss: 1.5281813450952764 - Discriminator Loss: 0.3672718658984414
+Average PSNR on validation set for epoch 45: 53.0994758605957 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 46/150 - Generator Loss: 1.503378116095019 - Discriminator Loss: 0.36500826996305713
+Average PSNR on validation set for epoch 46: 53.1797981262207 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 47/150 - Generator Loss: 1.4921035653517651 - Discriminator Loss: 0.36631649544116535
+Average PSNR on validation set for epoch 47: 53.18874740600586 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 48/150 - Generator Loss: 1.4812870456767175 - Discriminator Loss: 0.36569230393929913
+Average PSNR on validation set for epoch 48: 53.20588302612305 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 49/150 - Generator Loss: 1.4683956529783166 - Discriminator Loss: 0.36827374411665875
+Average PSNR on validation set for epoch 49: 53.18105697631836 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 50/150 - Generator Loss: 1.4556684065242058 - Discriminator Loss: 0.36651192399352905
+Average PSNR on validation set for epoch 50: 53.33283233642578 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 51/150 - Generator Loss: 1.441960701358177 - Discriminator Loss: 0.36645340000687854
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 51: 53.296295166015625 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 52/150 - Generator Loss: 1.4315124611138355 - Discriminator Loss: 0.365748332305388
+Average PSNR on validation set for epoch 52: 53.22905349731445 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 53/150 - Generator Loss: 1.416057141873205 - Discriminator Loss: 0.36732653384152136
+Average PSNR on validation set for epoch 53: 53.32337188720703 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 54/150 - Generator Loss: 1.4140050618544868 - Discriminator Loss: 0.36731223178946454
+Average PSNR on validation set for epoch 54: 53.390621185302734 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 55/150 - Generator Loss: 1.395141783203532 - Discriminator Loss: 0.36702450332434283
+Average PSNR on validation set for epoch 55: 53.43293380737305 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 56/150 - Generator Loss: 1.3866752532159858 - Discriminator Loss: 0.36712964344401605
+Average PSNR on validation set for epoch 56: 53.556331634521484 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 00057: reducing learning rate of group 0 to 1.0000e-08.
+Epoch 57/150 - Generator Loss: 1.3684297729386643 - Discriminator Loss: 0.3684093676536922
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 57: 53.44133377075195 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 58/150 - Generator Loss: 1.3667715952801611 - Discriminator Loss: 0.3683318528733235
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 58: 53.544769287109375 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 59/150 - Generator Loss: 1.352747803149016 - Discriminator Loss: 0.3656253639181612
+Average PSNR on validation set for epoch 59: 53.562416076660156 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 60/150 - Generator Loss: 1.3445545748288452 - Discriminator Loss: 0.36804601338069903
+Average PSNR on validation set for epoch 60: 53.536006927490234 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 61/150 - Generator Loss: 1.3308274753008906 - Discriminator Loss: 0.3666981101742846
+Average PSNR on validation set for epoch 61: 53.654964447021484 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 62/150 - Generator Loss: 1.3265002775098025 - Discriminator Loss: 0.36612016740052594
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 62: 53.6117057800293 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 63/150 - Generator Loss: 1.313118192753773 - Discriminator Loss: 0.36695125911075605
+Average PSNR on validation set for epoch 63: 53.60439682006836 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 64/150 - Generator Loss: 1.3135415537084045 - Discriminator Loss: 0.3699073228440266
+Average PSNR on validation set for epoch 64: 53.74079513549805 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 65/150 - Generator Loss: 1.2970602276768137 - Discriminator Loss: 0.3668849342189759
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 65: 53.702064514160156 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 66/150 - Generator Loss: 1.2880305817475903 - Discriminator Loss: 0.3661457737208355
+Average PSNR on validation set for epoch 66: 53.7475700378418 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 67/150 - Generator Loss: 1.2876495181807417 - Discriminator Loss: 0.3663619660106101
+Average PSNR on validation set for epoch 67: 53.751583099365234 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 68/150 - Generator Loss: 1.270956353707747 - Discriminator Loss: 0.3668934700517315
+Average PSNR on validation set for epoch 68: 53.78162384033203 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 69/150 - Generator Loss: 1.264911142026954 - Discriminator Loss: 0.3658518124474838
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 69: 53.755306243896484 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 70/150 - Generator Loss: 1.260598624883433 - Discriminator Loss: 0.3646668381841758
+Average PSNR on validation set for epoch 70: 53.79395294189453 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 71/150 - Generator Loss: 1.2497884852612915 - Discriminator Loss: 0.36705249689313263
+Average PSNR on validation set for epoch 71: 53.908721923828125 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 72/150 - Generator Loss: 1.2477175258836257 - Discriminator Loss: 0.36616010274811694
+Average PSNR on validation set for epoch 72: 53.8277702331543 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 73/150 - Generator Loss: 1.2358778851776726 - Discriminator Loss: 0.3662608708788755
+Average PSNR on validation set for epoch 73: 53.834346771240234 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 74/150 - Generator Loss: 1.2242975369272495 - Discriminator Loss: 0.3670802165868254
+Average PSNR on validation set for epoch 74: 53.97449493408203 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 75/150 - Generator Loss: 1.2128918752839914 - Discriminator Loss: 0.364464320212956
+Average PSNR on validation set for epoch 75: 53.947731018066406 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 76/150 - Generator Loss: 1.2056850720300034 - Discriminator Loss: 0.36857499105657043
+Average PSNR on validation set for epoch 76: 53.99360275268555 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 77/150 - Generator Loss: 1.1972708982441265 - Discriminator Loss: 0.36814835113970185
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 77: 53.956459045410156 dB
+100%|██████████| 253/253 [04:48<00:00,  1.14s/it]
+Epoch 78/150 - Generator Loss: 1.19047681451315 - Discriminator Loss: 0.367517910338202
+Average PSNR on validation set for epoch 78: 54.03437423706055 dB
+100%|██████████| 253/253 [04:48<00:00,  1.14s/it]
+Epoch 79/150 - Generator Loss: 1.1804515333043728 - Discriminator Loss: 0.3682960601663401
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 79: 53.924957275390625 dB
+100%|██████████| 253/253 [04:48<00:00,  1.14s/it]
+Epoch 80/150 - Generator Loss: 1.1770246321033584 - Discriminator Loss: 0.3688724978639203
+Average PSNR on validation set for epoch 80: 53.97016525268555 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 81/150 - Generator Loss: 1.163667870368882 - Discriminator Loss: 0.367737263794473
+Average PSNR on validation set for epoch 81: 54.08613967895508 dB
+100%|██████████| 253/253 [04:54<00:00,  1.16s/it]
+Epoch 82/150 - Generator Loss: 1.157982134065138 - Discriminator Loss: 0.3660909825634108
+Average PSNR on validation set for epoch 82: 53.936683654785156 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 83/150 - Generator Loss: 1.1558844501321965 - Discriminator Loss: 0.3669579409563494
+Average PSNR on validation set for epoch 83: 54.09096908569336 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 84/150 - Generator Loss: 1.1475053914922029 - Discriminator Loss: 0.36844400714037445
+Average PSNR on validation set for epoch 84: 54.130531311035156 dB
+100%|██████████| 253/253 [05:03<00:00,  1.20s/it]
+Epoch 85/150 - Generator Loss: 1.1351038636897393 - Discriminator Loss: 0.36694129983427026
+Average PSNR on validation set for epoch 85: 54.24354934692383 dB
+100%|██████████| 253/253 [04:51<00:00,  1.15s/it]
+Epoch 86/150 - Generator Loss: 1.1364781076729062 - Discriminator Loss: 0.36900515471522516
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 86: 54.198097229003906 dB
+100%|██████████| 253/253 [04:51<00:00,  1.15s/it]
+Epoch 87/150 - Generator Loss: 1.1237030806748762 - Discriminator Loss: 0.36933428166883264
+Average PSNR on validation set for epoch 87: 54.15224838256836 dB
+100%|██████████| 253/253 [04:51<00:00,  1.15s/it]
+Epoch 88/150 - Generator Loss: 1.1231395724733828 - Discriminator Loss: 0.3680333197116852
+Average PSNR on validation set for epoch 88: 54.2705192565918 dB
+100%|██████████| 253/253 [04:51<00:00,  1.15s/it]
+Epoch 89/150 - Generator Loss: 1.1132621081921423 - Discriminator Loss: 0.3710433413153109
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 89: 54.182979583740234 dB
+100%|██████████| 253/253 [04:51<00:00,  1.15s/it]
+Epoch 90/150 - Generator Loss: 1.1083750187643904 - Discriminator Loss: 0.36744412379302527
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 90: 54.240203857421875 dB
+100%|██████████| 253/253 [04:51<00:00,  1.15s/it]
+Epoch 91/150 - Generator Loss: 1.101196234640868 - Discriminator Loss: 0.36714200763834326
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 91: 54.18721389770508 dB
+100%|██████████| 253/253 [04:53<00:00,  1.16s/it]
+Epoch 92/150 - Generator Loss: 1.0929996222846592 - Discriminator Loss: 0.36611261021478375
+Average PSNR on validation set for epoch 92: 54.316009521484375 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 93/150 - Generator Loss: 1.080252909142038 - Discriminator Loss: 0.3668396026485051
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 93: 54.26774978637695 dB
+100%|██████████| 253/253 [04:59<00:00,  1.19s/it]
+Epoch 94/150 - Generator Loss: 1.0782475794256912 - Discriminator Loss: 0.3685723968409738
+Average PSNR on validation set for epoch 94: 54.30548095703125 dB
+100%|██████████| 253/253 [05:00<00:00,  1.19s/it]
+Epoch 95/150 - Generator Loss: 1.077981450105373 - Discriminator Loss: 0.36843979099522467
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 95: 54.30097198486328 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 96/150 - Generator Loss: 1.0687336007596946 - Discriminator Loss: 0.369961205678495
+Average PSNR on validation set for epoch 96: 54.353515625 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 97/150 - Generator Loss: 1.0603802519824665 - Discriminator Loss: 0.36896417063215503
+Average PSNR on validation set for epoch 97: 54.377532958984375 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 98/150 - Generator Loss: 1.0560660541293179 - Discriminator Loss: 0.3678253669983785
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 98: 54.344825744628906 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 99/150 - Generator Loss: 1.0537477121522776 - Discriminator Loss: 0.3671852074592952
+Average PSNR on validation set for epoch 99: 54.43044662475586 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 100/150 - Generator Loss: 1.0420345588635078 - Discriminator Loss: 0.3688723539175252
+Average PSNR on validation set for epoch 100: 54.41067123413086 dB
+100%|██████████| 253/253 [05:00<00:00,  1.19s/it]
+Epoch 101/150 - Generator Loss: 1.0427706955449854 - Discriminator Loss: 0.36814986234125885
+Average PSNR on validation set for epoch 101: 54.48976516723633 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 102/150 - Generator Loss: 1.0365379038064375 - Discriminator Loss: 0.368135696107691
+Average PSNR on validation set for epoch 102: 54.347572326660156 dB
+100%|██████████| 253/253 [04:59<00:00,  1.18s/it]
+Epoch 103/150 - Generator Loss: 1.0270847447304858 - Discriminator Loss: 0.36939956512846966
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 103: 54.33321762084961 dB
+100%|██████████| 253/253 [04:52<00:00,  1.16s/it]
+Epoch 104/150 - Generator Loss: 1.022691972642077 - Discriminator Loss: 0.36839060891758313
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 104: 54.4161376953125 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 105/150 - Generator Loss: 1.017235769584716 - Discriminator Loss: 0.3677210924418076
+Average PSNR on validation set for epoch 105: 54.45644760131836 dB
+100%|██████████| 253/253 [04:44<00:00,  1.12s/it]
+Epoch 106/150 - Generator Loss: 1.0103521806449287 - Discriminator Loss: 0.37028857688658795
+Average PSNR on validation set for epoch 106: 54.41596221923828 dB
+100%|██████████| 253/253 [04:44<00:00,  1.12s/it]
+Epoch 107/150 - Generator Loss: 1.0062213068894246 - Discriminator Loss: 0.3678891974475544
+Average PSNR on validation set for epoch 107: 54.501312255859375 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 108/150 - Generator Loss: 0.9995282855429668 - Discriminator Loss: 0.3696100703576808
+Average PSNR on validation set for epoch 108: 54.589229583740234 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 109/150 - Generator Loss: 0.9953004720182758 - Discriminator Loss: 0.3679370298215994
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 109: 54.44111251831055 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 110/150 - Generator Loss: 0.9906450976496157 - Discriminator Loss: 0.36769833194879675
+Average PSNR on validation set for epoch 110: 54.48728561401367 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 111/150 - Generator Loss: 0.9827045206967079 - Discriminator Loss: 0.36792791396261676
+Average PSNR on validation set for epoch 111: 54.51613235473633 dB
+100%|██████████| 253/253 [04:44<00:00,  1.12s/it]
+Epoch 112/150 - Generator Loss: 0.9779878470737472 - Discriminator Loss: 0.3680030012083619
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 112: 54.514888763427734 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 113/150 - Generator Loss: 0.9760183246710555 - Discriminator Loss: 0.3687138785957819
+Average PSNR on validation set for epoch 113: 54.586273193359375 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 114/150 - Generator Loss: 0.975371581763618 - Discriminator Loss: 0.3697986952636553
+Average PSNR on validation set for epoch 114: 54.61236572265625 dB
+100%|██████████| 253/253 [04:44<00:00,  1.13s/it]
+Epoch 115/150 - Generator Loss: 0.9616657822970817 - Discriminator Loss: 0.36889263198309735
+Average PSNR on validation set for epoch 115: 54.596595764160156 dB
+100%|██████████| 253/253 [04:40<00:00,  1.11s/it]
+Epoch 116/150 - Generator Loss: 0.9636077588725939 - Discriminator Loss: 0.3655366169605331
+Average PSNR on validation set for epoch 116: 54.60844039916992 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 117/150 - Generator Loss: 0.9570209749131334 - Discriminator Loss: 0.368874488847529
+Average PSNR on validation set for epoch 117: 54.62034225463867 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 118/150 - Generator Loss: 0.9476543843981777 - Discriminator Loss: 0.3688124862348609
+Average PSNR on validation set for epoch 118: 54.659515380859375 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 119/150 - Generator Loss: 0.9467166589182827 - Discriminator Loss: 0.3680740128392759
+Average PSNR on validation set for epoch 119: 54.59355545043945 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 120/150 - Generator Loss: 0.9370882282615179 - Discriminator Loss: 0.36698224846082245
+Average PSNR on validation set for epoch 120: 54.66477584838867 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 121/150 - Generator Loss: 0.9305829042973726 - Discriminator Loss: 0.36996354439513013
+Average PSNR on validation set for epoch 121: 54.73611068725586 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 122/150 - Generator Loss: 0.9301491565855124 - Discriminator Loss: 0.36855852403659595
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 122: 54.72473907470703 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 123/150 - Generator Loss: 0.9270531238303354 - Discriminator Loss: 0.3698654225456856
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 123: 54.6494255065918 dB
+100%|██████████| 253/253 [04:34<00:00,  1.08s/it]
+Epoch 124/150 - Generator Loss: 0.9236229137469657 - Discriminator Loss: 0.3705700098761457
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 124: 54.72916793823242 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 125/150 - Generator Loss: 0.9209657172440541 - Discriminator Loss: 0.36764766788294195
+Average PSNR on validation set for epoch 125: 54.781494140625 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 126/150 - Generator Loss: 0.9163555137724745 - Discriminator Loss: 0.36860807563947595
+Average PSNR on validation set for epoch 126: 54.86781692504883 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 127/150 - Generator Loss: 0.9105653630886154 - Discriminator Loss: 0.36858275367808435
+Average PSNR on validation set for epoch 127: 54.76682662963867 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 128/150 - Generator Loss: 0.9015569147385156 - Discriminator Loss: 0.3690464500146421
+Average PSNR on validation set for epoch 128: 54.8399658203125 dB
+100%|██████████| 253/253 [04:34<00:00,  1.08s/it]
+Epoch 129/150 - Generator Loss: 0.9035662594048873 - Discriminator Loss: 0.3674696944212254
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 129: 54.80393600463867 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 130/150 - Generator Loss: 0.9002025570322874 - Discriminator Loss: 0.36908240751786664
+Average PSNR on validation set for epoch 130: 54.82794952392578 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 131/150 - Generator Loss: 0.8912533255433848 - Discriminator Loss: 0.36995602407945477
+Average PSNR on validation set for epoch 131: 54.89005661010742 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 132/150 - Generator Loss: 0.8882380198584243 - Discriminator Loss: 0.3678574410116248
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 132: 54.8121452331543 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 133/150 - Generator Loss: 0.8850461454259548 - Discriminator Loss: 0.3692188737656288
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 133: 54.80781936645508 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 134/150 - Generator Loss: 0.8842276992062806 - Discriminator Loss: 0.3684351517277744
+Average PSNR on validation set for epoch 134: 54.95814895629883 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 135/150 - Generator Loss: 0.882082240619207 - Discriminator Loss: 0.3691265388675358
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 135: 54.8775749206543 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 136/150 - Generator Loss: 0.8737648414528888 - Discriminator Loss: 0.3687386621128429
+Average PSNR on validation set for epoch 136: 54.86381149291992 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 137/150 - Generator Loss: 0.8683724203128589 - Discriminator Loss: 0.3698898957887657
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 137: 54.920135498046875 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 138/150 - Generator Loss: 0.8624911310644489 - Discriminator Loss: 0.36940826104563684
+Average PSNR on validation set for epoch 138: 54.95626449584961 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 139/150 - Generator Loss: 0.8597624895600934 - Discriminator Loss: 0.36780940791363775
+Average PSNR on validation set for epoch 139: 54.836151123046875 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 140/150 - Generator Loss: 0.8553549800465701 - Discriminator Loss: 0.36864867005423596
+Average PSNR on validation set for epoch 140: 54.96553421020508 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 141/150 - Generator Loss: 0.8518296409501389 - Discriminator Loss: 0.36987428855990234
+Average PSNR on validation set for epoch 141: 54.917842864990234 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 142/150 - Generator Loss: 0.848091829200036 - Discriminator Loss: 0.3683897887058409
+Average PSNR on validation set for epoch 142: 54.895687103271484 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 143/150 - Generator Loss: 0.8434560925593018 - Discriminator Loss: 0.3690786677386921
+Average PSNR on validation set for epoch 143: 54.90997314453125 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 144/150 - Generator Loss: 0.8445739868601321 - Discriminator Loss: 0.36760690761177905
+Average PSNR on validation set for epoch 144: 55.02861404418945 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 145/150 - Generator Loss: 0.836341029099325 - Discriminator Loss: 0.37076132040721155
+Average PSNR on validation set for epoch 145: 55.013954162597656 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 146/150 - Generator Loss: 0.831071371853116 - Discriminator Loss: 0.37103466978186206
+Average PSNR on validation set for epoch 146: 55.079803466796875 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 147/150 - Generator Loss: 0.8299844111849668 - Discriminator Loss: 0.37009458084822644
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 147: 54.960968017578125 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 148/150 - Generator Loss: 0.8261795552822913 - Discriminator Loss: 0.3683180235355739
+Average PSNR on validation set for epoch 148: 55.0064697265625 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 149/150 - Generator Loss: 0.8220196069464853 - Discriminator Loss: 0.3696600741784092
+  0%|          | 0/253 [00:00<?, ?it/s]Average PSNR on validation set for epoch 149: 54.967037200927734 dB
+100%|██████████| 253/253 [04:33<00:00,  1.08s/it]
+Epoch 150/150 - Generator Loss: 0.8163765320193627 - Discriminator Loss: 0.36743625079690234
+Average PSNR on validation set for epoch 150: 55.07499313354492 dB
+
+Process finished with exit code 0

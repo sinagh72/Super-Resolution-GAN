@@ -1,0 +1,7 @@
+/dogs-vs-cats (1)/
+/srgan/best_generator.pth
+/srgan/best_discriminator.pth
+/srgan/generated_train_images
+/srgan/generated_val_images
+/checkpoints/model_A/resnet18-epoch=12-val_loss=0.09.ckpt
+/checkpoints/model_B/resnet18-epoch=11-val_loss=0.35.ckpt
