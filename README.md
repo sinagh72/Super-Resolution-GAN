@@ -41,17 +41,35 @@ To use this repository for cat and dog classification:
 7. Use the `test.py` to evaluate models A and B and compare their performances.
 
 ## SRGAN sample
-<p float="left">
-  <img src="/srgan/train_srgan_samples/Cat_149_lr.png" width="32%" />
-  <img src="/srgan/train_srgan_samples/Cat_149_hr.png" width="32%" /> 
-  <img src="/srgan/train_srgan_samples/Cat_149_generated.png" width="32%" />
-</p>
-</br>
-<p float="left">
-  <img src="/srgan/train_srgan_samples/Dog_148_lr.png" width="32%" />
-  <img src="/srgan/train_srgan_samples/Dog_148_hr.png" width="32%" /> 
-  <img src="/srgan/train_srgan_samples/Dog_148_generated.png" width="32%" />
-</p>
+<figure>
+  <p float="left">
+    <img src="/srgan/train_srgan_samples/Cat_149_lr.png" width="32%" />
+    <figcaption>Low Resolution - Cat</figcaption>
+  </p>
+  <p float="left">
+    <img src="/srgan/train_srgan_samples/Cat_149_hr.png" width="32%" />
+    <figcaption>High Resolution - Cat</figcaption>
+  </p>
+  <p float="left">
+    <img src="/srgan/train_srgan_samples/Cat_149_generated.png" width="32%" />
+    <figcaption>SRGAN Generated - Cat</figcaption>
+  </p>
+</figure>
+
+<figure>
+  <p float="left">
+    <img src="/srgan/train_srgan_samples/Dog_148_lr.png" width="32%" />
+    <figcaption>Low Resolution - Dog</figcaption>
+  </p>
+  <p float="left">
+    <img src="/srgan/train_srgan_samples/Dog_148_hr.png" width="32%" />
+    <figcaption>High Resolution - Dog</figcaption>
+  </p>
+  <p float="left">
+    <img src="/srgan/train_srgan_samples/Dog_148_generated.png" width="32%" />
+    <figcaption>SRGAN Generated - Dog</figcaption>
+  </p>
+</figure>
 
 ## Model Performance
 
