@@ -1,4 +1,4 @@
-# Cat vs. Dog Classification Enhanced by SRGAN
+# Cat vs. Dog Classification by SRGAN
 
 ## Introduction
 This repository is dedicated to the task of binary classification of cats and dogs using a Super-Resolution Generative Adversarial Network (SRGAN) to enhance image quality. The SRGAN approach is based on the paper by Ledig et al., which can be found [here](https://arxiv.org/abs/1609.04802).
