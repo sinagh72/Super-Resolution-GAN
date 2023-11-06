@@ -41,6 +41,7 @@ To use this repository for cat and dog classification:
 7. Use the `test.py` to evaluate models A and B and compare their performances.
 
 ## SRGAN sample
+<!-- First row of images -->
 <figure>
   <p float="left">
     <img src="/srgan/train_srgan_samples/Cat_149_lr.png" width="32%" />
@@ -56,6 +57,10 @@ To use this repository for cat and dog classification:
   </p>
 </figure>
 
+<!-- Clear the float -->
+<div style="clear:both;"></div>
+
+<!-- Second row of images -->
 <figure>
   <p float="left">
     <img src="/srgan/train_srgan_samples/Dog_148_lr.png" width="32%" />
