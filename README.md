@@ -40,9 +40,18 @@ To use this repository for cat and dog classification:
 6. Execute `train_srganenerated.py` to train the binary classification model (model B) on the SRGAN-generated images.
 7. Use the `test.py` to evaluate models A and B and compare their performances.
 
-## Results
-
-The results section should detail the performance metrics of the binary classification model before and after the application of SRGAN, highlighting the impact of image resolution on model accuracy.
+## SRGAN sample
+<p float="left">
+  <img src="/srgan/train_srgan_samples/Cat_149_lr.png" width="32%" />
+  <img src="/srgan/train_srgan_samples/Cat_149_hr.png" width="32%" /> 
+  <img src="/srgan/train_srgan_samples/Cat_149_generated.png" width="32%" />
+</p>
+</br>
+<p float="left">
+  <img src="/srgan/train_srgan_samples/Dog_148_lr.png" width="32%" />
+  <img src="/srgan/train_srgan_samples/Dog_148_hr.png" width="32%" /> 
+  <img src="/srgan/train_srgan_samples/Dog_148_generated.png" width="32%" />
+</p>
 
 ## Model Performance
 
