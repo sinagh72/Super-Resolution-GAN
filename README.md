@@ -53,4 +53,4 @@ Contributions to this project are welcome. Please fork the repository, make your
 - Thanks to Kaggle for providing the dataset for this classification challenge.
 
 ## Contact
-For any queries or support, please open an issue in the repository or contact the repository maintainers directly.
+For any queries or support such model A and B weights and SRGAN-generated images, please open an issue in the repository or contact the repository maintainers directly.
