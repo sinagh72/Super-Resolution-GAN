@@ -41,9 +41,6 @@ To use this repository for cat and dog classification:
 7. Use the `test.py` to evaluate models A and B and compare their performances.
 
 ## Sample SRGAN Outputs
-
-## Sample SRGAN Outputs
-
 ### Cat Images
 | Low Resolution | High Resolution | SRGAN Generated |
 |:--------------:|:---------------:|:---------------:|
