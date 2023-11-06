@@ -32,9 +32,11 @@ To use this repository for cat and dog classification:
 
 1. Clone the repository to your local machine.
 2. Download the Kaggle dataset from [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data) and place it in the `cat_vs_dog_dataset` directory.
-3. Run `train.py` to train the binary classification model on the original high-resolution images.
-4. Execute the scripts within the `srgan` directory to train the SRGAN model and upscale the low-resolution images.
-5. Use the enhanced images to retrain the binary classification model and compare the results with the original model.
+3. Run `train.py` to train the binary classification model (model A) on the original high-resolution images.
+4. Execute the scripts within the `srgan` directory to train the SRGAN.
+5. Run `generate_srgan_data.py` to generate SRGAN images from 32x32 to 128x128.
+6. Execute `train_srganenerated.py` to train the binary classification model (model B) on the SRGAN-generated images.
+7. Use the `test.py` to evaluate models A and B and compare their performances.
 
 ## Results
 
