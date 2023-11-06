@@ -21,7 +21,7 @@ The goal of this project is to compare the performance of a binary classificatio
 │ ├── generate_srgan_data.py # Script to generate SRGAN images from 32x32 to 128x128.
 │ ├── srgan.py # SRGAN model architecture.
 │ ├── srgan_train_log.txt # Training log for SRGAN.
-│ └── srgan_train.py # Script for training the SRGAN model.
+│ ├── srgan_train.py # Script for training the SRGAN model.
 │ └── train_srganenerated.py # Script to train the binary classification model on SRGAN-generated images.
 ├── train.py # Script for training the binary classification model.
 ├── test.py # Script for testing the binary classification model.
