@@ -6,7 +6,7 @@ This repository is dedicated to the task of binary classification of cats and do
 The goal of this project is to compare the performance of a binary classification model trained on standard resolution images (128x128) against the same model trained on images that have been downscaled and then upscaled using SRGAN (32x32 to 128x128).
 
 ## Repository Structure
-
+```
 /
 ├── checkpoints/ #First model checkpoints and TensorBoard logs.
 ├── cat_vs_dog_dataset/ # Original dataset for the classification task.
@@ -18,7 +18,7 @@ The goal of this project is to compare the performance of a binary classificatio
 ├── train.py # Script for training the binary classification model.
 ├── test.py # Script for testing the binary classification model.
 └── README.md # Documentation for this repository.
-
+```
 
 ## Getting Started
 
