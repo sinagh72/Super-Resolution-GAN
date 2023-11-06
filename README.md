@@ -48,11 +48,11 @@ The results section should detail the performance metrics of the binary classifi
 
 ### Confusion Matrix for Model A
 
-![Confusion Matrix for Model A](/confusion_matrix_model_a.png)
+![Confusion Matrix for Model A](/confusion_matrix_model_A.png)
 
 ### Confusion Matrix for Model B
 
-![Confusion Matrix for Model B](/confusion_matrix_model_b.png)
+![Confusion Matrix for Model B](/confusion_matrix_model_B.png)
 
 
 ## Contributions
