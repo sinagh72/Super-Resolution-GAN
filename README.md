@@ -44,6 +44,17 @@ To use this repository for cat and dog classification:
 
 The results section should detail the performance metrics of the binary classification model before and after the application of SRGAN, highlighting the impact of image resolution on model accuracy.
 
+## Model Performance
+
+### Confusion Matrix for Model A
+
+![Confusion Matrix for Model A](/confusion_matrix_model_a.png)
+
+### Confusion Matrix for Model B
+
+![Confusion Matrix for Model B](/confusion_matrix_model_b.png)
+
+
 ## Contributions
 
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request for review.
@@ -53,4 +64,4 @@ Contributions to this project are welcome. Please fork the repository, make your
 - Thanks to Kaggle for providing the dataset for this classification challenge.
 
 ## Contact
-For any queries or support such model A and B weights and SRGAN-generated images, please open an issue in the repository or contact the repository maintainers directly.
+For any queries or support such as model A and B weights and SRGAN-generated images, please open an issue in the repository or contact the repository maintainers directly.
