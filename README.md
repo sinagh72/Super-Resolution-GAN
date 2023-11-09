@@ -22,8 +22,8 @@ The goal of this project is to compare the performance of a binary classificatio
 │ ├── srgan.py # SRGAN model architecture.
 │ ├── srgan_train_log.txt # Training log for SRGAN.
 │ ├── srgan_train.py # Script for training the SRGAN model.
-│ └── train_srganenerated.py # Script to train the binary classification model on SRGAN-generated images.
-├── train.py # Script for training the binary classification model.
+│ └── train_B.py # Script to train the binary classification model on SRGAN-generated images.
+├── train_A.py # Script for training the binary classification model.
 ├── test.py # Script for testing the binary classification model.
 └── README.md # Documentation for this repository.
 ```
@@ -34,10 +34,10 @@ To use this repository for cat and dog classification:
 
 1. Clone the repository to your local machine.
 2. Download the Kaggle dataset from [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data) and place it in the `cat_vs_dog_dataset` directory.
-3. Run `train.py` to train the binary classification model (model A) on the original high-resolution images.
-4. Execute the scripts within the `srgan` directory to train the SRGAN.
+3. Run `train_A.py` to train the binary classification model (model A) on the original high-resolution images.
+4. Execute the scripts `srgan_train.py` within the `srgan` directory to train the SRGAN.
 5. Run `generate_srgan_data.py` to generate SRGAN images from 32x32 to 128x128.
-6. Execute `train_srganenerated.py` to train the binary classification model (model B) on the SRGAN-generated images.
+6. Execute `train_B.py` to train the binary classification model (model B) on the SRGAN-generated images.
 7. Use the `test.py` to evaluate models A and B and compare their performances.
 
 ## Sample SRGAN Outputs
